@@ -1,3 +1,3 @@
-# COMP251
+# McGill University Comp 251
 LaTeX'ed Notes for COMP 251 Winter 2018 Term.
 
