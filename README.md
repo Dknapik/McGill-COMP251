@@ -1,3 +1,3 @@
-# McGill University COMP 251
-LaTeX'ed Notes for COMP 251 Winter 2018 Term.
+# [McGill University] COMP 251 Algorithms and Data Structures
+Notes for the course.
 
